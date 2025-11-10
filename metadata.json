@@ -1,0 +1,7 @@
+{
+  "name": "Smart Emotion Mirror",
+  "description": "An AI-powered mirror that analyzes your facial expression and environment in real-time to reflect your emotional state and provide intelligent, uplifting feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
